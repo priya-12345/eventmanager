@@ -2,7 +2,7 @@
   "name": "eventfinder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://priya-12345.github.io/reduxeventmanager",
+  "homepage": "https://priya-12345.github.io/eventmanager",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
