@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/eventmanager/static/css/main.382a7d88.chunk.css",
-    "main.js": "/eventmanager/static/js/main.f8fd8b93.chunk.js",
-    "main.js.map": "/eventmanager/static/js/main.f8fd8b93.chunk.js.map",
-    "runtime-main.js": "/eventmanager/static/js/runtime-main.37f593a6.js",
-    "runtime-main.js.map": "/eventmanager/static/js/runtime-main.37f593a6.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/eventmanager/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.88d649da.chunk.js": "/eventmanager/static/js/2.88d649da.chunk.js",
-    "static/js/2.88d649da.chunk.js.map": "/eventmanager/static/js/2.88d649da.chunk.js.map",
-    "index.html": "/eventmanager/index.html",
-    "precache-manifest.16f16da4ab37970581ed1139d83c8cfa.js": "/eventmanager/precache-manifest.16f16da4ab37970581ed1139d83c8cfa.js",
-    "service-worker.js": "/eventmanager/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/eventmanager/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.382a7d88.chunk.css.map": "/eventmanager/static/css/main.382a7d88.chunk.css.map",
-    "static/js/2.88d649da.chunk.js.LICENSE.txt": "/eventmanager/static/js/2.88d649da.chunk.js.LICENSE.txt"
+    "main.css": "/reduxeventfinder/static/css/main.382a7d88.chunk.css",
+    "main.js": "/reduxeventfinder/static/js/main.b6d55295.chunk.js",
+    "main.js.map": "/reduxeventfinder/static/js/main.b6d55295.chunk.js.map",
+    "runtime-main.js": "/reduxeventfinder/static/js/runtime-main.b2abecb0.js",
+    "runtime-main.js.map": "/reduxeventfinder/static/js/runtime-main.b2abecb0.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/reduxeventfinder/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6098c6bc.chunk.js": "/reduxeventfinder/static/js/2.6098c6bc.chunk.js",
+    "static/js/2.6098c6bc.chunk.js.map": "/reduxeventfinder/static/js/2.6098c6bc.chunk.js.map",
+    "index.html": "/reduxeventfinder/index.html",
+    "precache-manifest.cb5f0c17bcc19f9d6a2836927630db64.js": "/reduxeventfinder/precache-manifest.cb5f0c17bcc19f9d6a2836927630db64.js",
+    "service-worker.js": "/reduxeventfinder/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/reduxeventfinder/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.382a7d88.chunk.css.map": "/reduxeventfinder/static/css/main.382a7d88.chunk.css.map",
+    "static/js/2.6098c6bc.chunk.js.LICENSE.txt": "/reduxeventfinder/static/js/2.6098c6bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37f593a6.js",
+    "static/js/runtime-main.b2abecb0.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.88d649da.chunk.js",
+    "static/js/2.6098c6bc.chunk.js",
     "static/css/main.382a7d88.chunk.css",
-    "static/js/main.f8fd8b93.chunk.js"
+    "static/js/main.b6d55295.chunk.js"
   ]
 }
